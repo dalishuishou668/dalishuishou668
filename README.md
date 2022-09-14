@@ -1,9 +1,6 @@
 ### Hi there 👋, my Name is Qiaoyi Liu (Joyce)
 
-<!--
-**dalishuishou668/dalishuishou668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 I'm a full-stack software engineer who is always trying to grow and learn something new and looking forward to apply my knowledge and skills to real-world situations.
 
@@ -12,4 +9,4 @@ I'm a full-stack software engineer who is always trying to grow and learn someth
 - 💬 Check my LinkedIn here:  https://www.linkedin.com/in/qiaoyi-joyce-liu/
 - 📫 How to reach me: qyliu10@gmail.com
 
--->
+
